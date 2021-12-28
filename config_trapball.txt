@@ -1,5 +1,5 @@
 {
-    "g": "NH52 Billard",
+    "g": "bit79",
     "mf": "https://bit79.win/bundle/ios/remote-assets/",
     "dv": {
         "i": true,
