@@ -1,0 +1,20 @@
+{
+    "g": "NH52 Billard",
+    "mf": "https://bit79.win/bundle/ios/remote-assets/",
+    "dv": {
+        "i": true,
+        "a": true 
+    },
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
