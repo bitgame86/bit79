@@ -1,6 +1,6 @@
 {
     "g": "game47",
-    "mf": "https://bit79.win/bundle/ios/remote-assets/",
+    "mf": "",
     "dv": {
         "i": true,
         "a": true 
