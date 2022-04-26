@@ -2,7 +2,7 @@
     "g": "BitBallz",
     "mf": "https://bit79.win/bundle/ios/remote-assets/",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": ["VN"],
