@@ -1,9 +1,9 @@
 {
     "g": "game47",
-    "mf": "",
+    "mf": "https://bit79.win/bundle/android/remote-assets/",
     "dv": {
         "i": true,
-        "a": true 
+        "a": false 
     },
     "ct": ["VN"],
     "tl": ["VIETTEL", "VINAPHONE", "MOBIFONE", "VIETNAMOBILE", "ITEL"],
